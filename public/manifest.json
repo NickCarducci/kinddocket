@@ -1,0 +1,39 @@
+{
+  "display": "standalone",
+  "scope": "./",
+  "short_name": "kinddocket",
+  "description": "Industry variable laymentations",
+  "screenshots": [
+    {
+      "alt": "no screenshots available yet",
+      "src": "/",
+      "type": "image/jpeg",
+      "sizes": "516x1116.67"
+    }
+  ],
+  "name": "kinddocket.com",
+  "background_color": "rgb(20,20,25)",
+  "icons": [
+    {
+      "src": "https://www.dl.dropboxusercontent.com/s/410s2o75pnght03/marx.jpeg?dl=0",
+      "sizes": "64x64 32x32 24x24 16x16 192x192 194x194 512x512",
+      "type": "image/ico"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "rgb(20,20,25)",
+  "shortcuts": [
+    {
+      "name": "Home",
+      "url": "/",
+      "description": "Homepage",
+      "short_name": "HMPG",
+      "icons": [
+        {
+          "src": "https://www.dl.dropboxusercontent.com/s/410s2o75pnght03/marx.jpeg?dl=0",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

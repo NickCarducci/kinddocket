@@ -1,0 +1,28 @@
+{
+  "name": "kinddocket",
+  "version": "1.0.0",
+  "description": "Industry variable laymentations",
+  "keywords": ["court", "legal", "juries", "anarchism", "commercial"],
+  "main": "src/index.js",
+  "dependencies": {
+    "exenv": "1.2.2",
+    "prop-types": "15.7.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "6.4.2",
+    "react-scripts": "4.0.0",
+    "react-transition-group": "4.4.5",
+    "scriptjs": "2.5.9",
+    "ua-parser-js": "1.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
