@@ -146,7 +146,9 @@ export default class Basic extends React.Component {
         Should war mongers continue to pass gun control screenings in America?
         {space}(humanharvest.info). Are most laws today based on ownership or
         ethics? Isn't the statute of limitations for precedents rewinding torts
-        costly?
+        costly? Should professional psychologists or death wish admissions
+        determine the right to bear arms in America? Should Australians or gun
+        rights activists decide who has guns in America?
       </div>
     );
   }
