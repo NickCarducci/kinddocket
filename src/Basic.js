@@ -105,8 +105,8 @@ export default class Basic extends React.Component {
       //arrayOfnumbers.push(num);
       //console.log(arrayOfnumbers)
       return arrayOfnumbers;
-    };
-    const space = " ";*/
+    };*/
+    const space = " ";
     return (
       <div
         style={{
@@ -142,7 +142,13 @@ export default class Basic extends React.Component {
           style={{ height: "400px", width: "100%" }}
           title="socialtreaty.ru"
         />
+        <br />
+        Should war mongers continue to pass gun control screenings in America?
+        {space}(humanharvest.info). Are most laws today based on ownership or
+        ethics? Isn't the statute of limitations for precedents rewinding torts
+        costly?
       </div>
     );
   }
 }
+
